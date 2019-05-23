@@ -1,0 +1,1 @@
+Example for fully embedding a font into an inlined stylesheet
